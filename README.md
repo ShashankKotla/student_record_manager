@@ -17,7 +17,7 @@ A simple and extensible command-line application built in Python to manage stude
 ## 🚀 How to Run
 
 Make sure you have **Python 3** installed.
-
+<!--
 ```bash
 python3 main.py
 
@@ -51,4 +51,5 @@ Enter name to search: shashank
 3. Search
 4. Exit
 Choose: 4
-
+-->
+![Output](./Output.gif)
